@@ -2,9 +2,12 @@
 
 Я Android-разработчик и создаю бесплатные приложения.
 
+> [!IMPORTANT]
+> В поиске работы [@Etozhesandy](https://t.me/Etozhesandy) (Android, compose, kotlin). Не пишите туда с вопросами по программе - для этого есть Issues
+
 Основной стек — Kotlin + Jetpack Compose.
 
-Сейчас развиваю несколько open-source проектов:
+В свободное время развиваю несколько open-source проектов:
 
 ### 📺 YummyTV
 
