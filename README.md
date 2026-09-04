@@ -1,16 +1,46 @@
-## Hi there 👋
+# Привет! Я Саша 👋
 
-<!--
-**Helandy/Helandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Android-разработчик и создаю бесплатные приложения.
 
-Here are some ideas to get you started:
+Основной стек — Kotlin + Jetpack Compose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Сейчас развиваю несколько open-source проектов:
+
+### 📱 Kemonos
+
+Android-клиент для Kemono и Coomer.
+
+[Подробнее →](...)
+
+### 📺 YummyTV
+
+Неофициальный Android-клиент для YummyAnime.
+
+[Подробнее →](...)
+
+---
+
+## 💜 Поддержать разработку
+
+Мои приложения бесплатны, а их разработка и поддержка требуют времени.
+
+Если вы пользуетесь моими приложениями и хотите помочь мне продолжать их развивать — можно оформить ежемесячную поддержку на Boosty.
+
+👉 **[Поддержать разработку](https://boosty.to/etozhesandy)**
+
+Даже небольшая подписка помогает находить больше времени на новые функции,
+исправление ошибок и поддержку проектов.
+
+---
+
+## 🛠️ Технологии
+
+Kotlin · Android · Jetpack Compose · Coroutines · Flow · Room · Retrofit · Hilt
+
+---
+
+## 📬 Связаться со мной
+
+Telegram: [@Etozhesandy](...)
+
+GitHub: [@Helandy](...)
