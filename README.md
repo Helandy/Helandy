@@ -6,17 +6,17 @@
 
 Сейчас развиваю несколько open-source проектов:
 
-### 📱 Kemonos
-
-Android-клиент для Kemono и Coomer.
-
-[Подробнее →](...)
-
 ### 📺 YummyTV
 
 Неофициальный Android-клиент для YummyAnime.
 
-[Подробнее →](...)
+[Подробнее →](https://github.com/Helandy/YummyTV)
+
+### 📱 Kemonos
+
+Android-клиент для Kemono и Coomer.
+
+[Подробнее →](https://github.com/Helandy/Kemonos)
 
 ---
 
@@ -28,8 +28,7 @@ Android-клиент для Kemono и Coomer.
 
 👉 **[Поддержать разработку](https://boosty.to/etozhesandy)**
 
-Даже небольшая подписка помогает находить больше времени на новые функции,
-исправление ошибок и поддержку проектов.
+Даже небольшая подписка помогает находить больше времени на новые функции, исправление ошибок и поддержку проектов.
 
 ---
 
@@ -41,6 +40,6 @@ Kotlin · Android · Jetpack Compose · Coroutines · Flow · Room · Retrofit �
 
 ## 📬 Связаться со мной
 
-Telegram: [@Etozhesandy](...)
+Telegram: [@Etozhesandy](https://t.me/Etozhesandy)
 
-GitHub: [@Helandy](...)
+GitHub: [@Helandy](https://github.com/Helandy)
