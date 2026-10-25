@@ -11,13 +11,13 @@
 
 ### 📺 YummyTV
 
-Неофициальный Android-клиент для YummyAnime.
+Неофициальный Android клиент для YummyAnime.
 
 [Подробнее →](https://github.com/Helandy/YummyTV)
 
 ### 📱 Kemonos
 
-Android-клиент для Kemono и Coomer.
+Android клиент для Kemono и Coomer.
 
 [Подробнее →](https://github.com/Helandy/Kemonos)
 
@@ -27,7 +27,7 @@ Android-клиент для Kemono и Coomer.
 
 Мои приложения бесплатны, а их разработка и поддержка требуют времени.
 
-Если вы пользуетесь моими приложениями и хотите помочь мне продолжать их развивать — можно оформить ежемесячную поддержку на Boosty.
+Если вы пользуетесь моими приложениями и хотите помочь мне продолжать их развивать — можете поддержать меня на boosty
 
 👉 **[Поддержать разработку](https://boosty.to/etozhesandy)**
 
@@ -43,6 +43,6 @@ Kotlin · Android · Jetpack Compose · Coroutines · Flow · Room · Retrofit �
 
 ## 📬 Связаться со мной
 
-Telegram: [@Etozhesandy](https://t.me/Etozhesandy)
+Telegram: [@Etozhesandy](https://t.me/etozhesandy_dev)
 
 GitHub: [@Helandy](https://github.com/Helandy)
